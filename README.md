@@ -35,11 +35,14 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
 *   11，系统用户角色管理
 *   12，系统监控布
     
+【项目说明】
 
+	jeecg-framework            | 启动主项目
+	jeecg-p3-biz-qywx          | 微信企业号插件（不能单独启动）
 
 【标准开发环境】
 
-    myeclipse8.5 + jdk7 + tomcat6 + mysql_5.0.37 （注意： 不支持jdk8;）
+    Eclipse + maven+ jdk7 + tomcat6 + mysql_5.0.37 （注意： 不支持jdk8;）
 
 【开发入门】
 
@@ -52,12 +55,6 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
             输入验证码，默认账号admin/123456进行登录，进入捷微管家后台。
             说明：端口号，根据自己的配置，进行修改
 
-
-【捷微演示公众号】 
-
-    官方公众号："JEECG"  "H5互动汇"
-![github](http://img.blog.csdn.net/20160323155143399?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323154916164?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
 
 技术交流
 ==========
