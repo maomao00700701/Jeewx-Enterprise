@@ -1,0 +1,1 @@
+SELECT * FROM cms_ad WHERE 1=1 
