@@ -58,10 +58,10 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
 
 技术交流
 ==========
-
-* [1].技术论坛 :  [www.jeecg.org](http://www.jeecg.org)
-* [2].QQ群 176031980
-* [3].技术博客 ：[地址](http://blog.csdn.net/zhangdaiscott)
+* [1]演示地址：[http://demo.jeewx.com/qywx](http://demo.jeewx.com/qywx)
+* [2].技术论坛 :  [www.jeecg.org](http://www.jeecg.org)
+* [3].QQ群 176031980
+* [4].技术博客 ：[地址](http://blog.csdn.net/zhangdaiscott)
 
 
 ![github](http://static.oschina.net/uploads/space/2016/0424/131025_trWY_930898.png "jeewx")
