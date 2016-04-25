@@ -55,7 +55,7 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
              http://localhost:8080/jeecg
             输入验证码，默认账号admin/123456进行登录，进入捷微管家后台。
             说明：端口号，根据自己的配置，进行修改
-	特别提醒： JEEWX企业号插件依赖JEECG，关于更多技术问题，更详细的资料请参考JEECG [http://demo.jeewx.com/qywx](http://git.oschina.net/jeecg/jeecg)
+	特别提醒： JEEWX企业号插件依赖JEECG，更多资料参考：http://git.oschina.net/jeecg/jeecg
 	
 
 
