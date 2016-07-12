@@ -1,7 +1,7 @@
 package org.jeecgframework.test.demo;
 
-import org.jeecgframework.AbstractUnitTest;
 import org.jeecgframework.web.system.pojo.base.TSUser;
+import org.jeecgframework.web.system.service.AbstractUnitTest;
 import org.jeecgframework.web.system.service.UserService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.jeecgframework</groupId>
-	<artifactId>jeecg</artifactId>
+	<artifactId>jeewx-enterprise</artifactId>
 	<version>3.6.3</version>
 	<packaging>war</packaging>
 	<properties>
@@ -49,7 +49,7 @@
 		<commons-beanutils.version>1.7.0</commons-beanutils.version>
 		<commons-collections.version>3.2.1</commons-collections.version>
 		<commons-chain.version>1.2</commons-chain.version>
-		<commons-codec.version>1.3</commons-codec.version>
+		<commons-codec.version>1.6</commons-codec.version>
 		<commons-digester.version>2.0</commons-digester.version>
 		<commons-io.version>1.3.2</commons-io.version>
 		<commons-fileupload.version>1.2.1</commons-fileupload.version>
@@ -976,8 +976,8 @@
 	                <artifactId>tomcat-maven-plugin</artifactId>
 	                <version>1.1</version>
 	                <configuration>
-	                    <path>/jeecg</path>
-	                    <port>8080</port>
+	                    <path>/qywx</path>
+	                    <port>80</port>
 	                    <uriEncoding>UTF-8</uriEncoding>
 	                    <url>http://localhost:8080/manager/html</url>
 	                    <server>tomcat6</server>

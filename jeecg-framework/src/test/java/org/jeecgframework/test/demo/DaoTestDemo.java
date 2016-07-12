@@ -1,8 +1,8 @@
 package org.jeecgframework.test.demo;
 
-import org.jeecgframework.AbstractUnitTest;
 import org.jeecgframework.core.common.dao.impl.CommonDao;
 import org.jeecgframework.web.system.pojo.base.TSUser;
+import org.jeecgframework.web.system.service.AbstractUnitTest;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 /**
