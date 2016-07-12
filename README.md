@@ -68,7 +68,7 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
 
 技术交流
 ==========
-* [1].演示地址：[http://demo.jeewx.com/qywx](http://demo.jeewx.com/qywx)
+* [1].演示地址：[http://www.jeewx.com/qywx](http://www.jeewx.com/qywx)
 * [2].QQ交流群： 390507007
 * [3].[技术论坛](http://www.jeecg.org)
 * [4].[技术博客](http://blog.csdn.net/zhangdaiscott)
