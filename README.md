@@ -48,19 +48,22 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
 【开发入门】
 
     第一步：采用Mysql手工创建数据库jeewx-qiye 采用UTF-8编码
-    第二步：执行捷微数据初始化SQL脚本
+    第二步：执行jeewx数据初始化SQL脚本
               脚本位置：db\jeewx-qiye-mysql-20160424.sql
     第三步：采用eclipse导入maven项目，启动项目
     第四步：默认项目访问入口
              http://localhost/qywx
             输入验证码，默认账号admin/123456进行登录，进入捷微管家后台。
             说明：端口号，根据自己的配置，进行修改
-	特别提醒： JEEWX企业号插件依赖JEECG，更多资料参考：http://git.oschina.net/jeecg/jeecg
+	第五步：服务器部署，domain修改
+	        src/main/resources/qywxconfig.properties
+			修改参数：ftp_img_domain={真实项目访问地址} 例如：http://www.jeewx.com/jeewx
+	特别提醒： JEEWX企业号插件依赖JEECG，更多资料参考：http://www.jeecg.org
 	
 技术文档
 -----------------------------------
 * [JEECG 开发环境搭建入门](http://blog.csdn.net/zhangdaiscott/article/details/50915206)
-* [JEECG 入门常见问题必读](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
+* [JEECG 常见问题必读](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
 * [JEECG 开发入门视频](http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1)
 
 
