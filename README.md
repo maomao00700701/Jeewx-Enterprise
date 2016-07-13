@@ -52,26 +52,26 @@ JEEWX微信企业号管家是一个开源、高效、敏捷的微信企业号开
               脚本位置：db\jeewx-qiye-mysql-20160424.sql
     第三步：采用eclipse导入maven项目，启动项目
     第四步：默认项目访问入口
-             http://localhost:8080/jeecg
+             http://localhost/qywx
             输入验证码，默认账号admin/123456进行登录，进入捷微管家后台。
             说明：端口号，根据自己的配置，进行修改
 	特别提醒： JEEWX企业号插件依赖JEECG，更多资料参考：http://git.oschina.net/jeecg/jeecg
 	
 技术文档
 -----------------------------------
-* [JEECG 开发环境搭建入门必读](http://blog.csdn.net/zhangdaiscott/article/details/50915206)
-* [JEECG 开发入门视频](http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1)
+* [JEECG 开发环境搭建入门](http://blog.csdn.net/zhangdaiscott/article/details/50915206)
 * [JEECG 入门常见问题必读](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
+* [JEECG 开发入门视频](http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1)
+
 
 * maven依赖下载有问题的，可以直接下载官方提供的 => [JEECG本地Maven仓库](http://git.oschina.net/jeecg/jeecg-local-maven)
-* 不熟悉maven的同学，直接用 => [myeclipse非maven版本](http://git.oschina.net/jeecg/jeecg-no_maven)
 
 技术交流
 ==========
 * [1].演示地址：[http://www.jeewx.com/qywx](http://www.jeewx.com/qywx)
 * [2].QQ交流群： 390507007
-* [3].[技术论坛](http://www.jeecg.org)
-* [4].[技术博客](http://blog.csdn.net/zhangdaiscott)
+* [3].[www.jeecg.org](http://www.jeecg.org)
+* [4].[CSDN技术博客](http://blog.csdn.net/zhangdaiscott)
 
 
 ![github](http://static.oschina.net/uploads/space/2016/0424/131025_trWY_930898.png "jeewx")
