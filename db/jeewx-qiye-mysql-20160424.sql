@@ -2740,9 +2740,7 @@ CREATE TABLE `qywx_menu` (
   `update_name` varchar(50) default NULL COMMENT '更新人名称',
   `update_by` varchar(50) default NULL COMMENT '更新人登录名称',
   `update_date` datetime default NULL COMMENT '更新日期',
-  PRIMARY KEY  (`ID`),
-  UNIQUE KEY `menu_key` (`menu_key`),
-  UNIQUE KEY `order` (`orders`)
+  PRIMARY KEY  (`ID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='自定义菜单表';
 
 -- ----------------------------
