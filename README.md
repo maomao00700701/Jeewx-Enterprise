@@ -62,7 +62,8 @@ JEEWX企业号平台功能
 	
 技术文档
 -----------------------------------
-* [JEECG 开发环境搭建入门](http://blog.csdn.net/zhangdaiscott/article/details/50915206)
+* JEEWX微信企业号平台myeclipse非maven版本 链接：[http://pan.baidu.com/s/1dFnykhz](http://pan.baidu.com/s/1dFnykhz)  密码：x35a
+* [JEECG MAVEN开发环境搭建入门](http://blog.csdn.net/zhangdaiscott/article/details/50915206)
 * [JEECG 常见问题必读](http://www.jeecg.org/forum.php?mod=viewthread&tid=1830&extra=page%3D1)
 * [JEECG 开发入门视频](http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1)
 
